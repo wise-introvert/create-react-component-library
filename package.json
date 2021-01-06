@@ -1,9 +1,9 @@
 {
   "name": "create-rcl",
   "version": "3.1.1",
-  "description": "CLI for easily bootstrapping modern react libraries",
-  "repository": "transitive-bullshit/create-react-library",
-  "author": "Travis Fischer <travis@transitivebullsh.it>",
+  "description": "CLI to generate ReactJS component library running TypeScript out of the box.",
+  "repository": "wise-introvert/create-react-component-library",
+  "author": "Wise Introvert<fardeen.s.panjwani@gmail.com>",
   "main": "index.js",
   "license": "MIT",
   "engines": {
