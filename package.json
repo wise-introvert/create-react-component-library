@@ -1,6 +1,6 @@
 {
   "name": "create-rcl",
-  "version": "3.1.1",
+  "version": "1.0.0",
   "description": "CLI to generate ReactJS component library running TypeScript out of the box.",
   "repository": "wise-introvert/create-react-component-library",
   "author": "Wise Introvert<fardeen.s.panjwani@gmail.com>",
@@ -54,9 +54,6 @@
   "ava": {
     "failFast": true,
     "timeout": "10m",
-    "files": [
-      "index.test.js",
-      "lib/**/*.test.js"
-    ]
+    "files": ["index.test.js", "lib/**/*.test.js", "template/**/*"]
   }
 }
