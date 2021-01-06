@@ -10,7 +10,7 @@
     "node": ">=10"
   },
   "bin": {
-    "create-react-library": "index.js"
+    "creatre-rcl": "index.js"
   },
   "scripts": {
     "test": "ava -v && standard *.js lib/*.js"
